@@ -5,6 +5,10 @@
 - [Data Sources](#data-sources)
 - [Tools](#tools-used)
 - [Data preparation](#data-preparation)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Data Analysis](#data-analysis)
+- [Conclusion](#conclusion)
+- [Recommendation](#recommendation)
 
 ### Project Overview
 The Category Manager for Chips wants to better understand the types of customers who purchase Chips and their purchasing behaviour within the region. I seek to:
