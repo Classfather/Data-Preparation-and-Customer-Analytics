@@ -11,6 +11,7 @@
 - [Recommendation](#recommendation)
 
 ### Project Overview
+---
 The Category Manager for Chips wants to better understand the types of customers who purchase Chips and their purchasing behaviour within the region. I seek to:
 - Analyze transaction and customer data to identify trends and inconsistencies. 
 - Develop metrics and examine sales drivers to gain insights into overall sales performance. 
