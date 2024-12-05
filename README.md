@@ -21,9 +21,9 @@ The insights from the analysis will feed into the supermarket’s strategic plan
 
 ### Data Sources
 
-[Customer Data:](qvi-purchase_behavior.csv) This is the "QVI_purchase_behaviour.csv" file. It is the dataset containing detailed information about the different types of customers that patronized the company, the customers are categorized considering two factors: Life Stages and premium customers. 
+[Customer Data:](QVI_purchase_behaviour.csv) This is the "QVI_purchase_behaviour.csv" file. It is the dataset containing detailed information about the different types of customers that patronized the company, the customers are categorized considering two factors: Life Stages and premium customers. 
 
-Transaction Data: This is the "QVI_transaction_data.csv" file. It is the dataset containing detailed information about the purchase by each customer.
+[Transaction Data:](QVI_purchase_behaviour.csv) This is the "QVI_transaction_data.csv" file. It is the dataset containing detailed information about the purchase by each customer.
 
 Data: This is the "QVI_data.csv" file. it is the combination of the Customer data and Transaction data after performing Data cleaning on both datasets 
 
