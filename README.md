@@ -142,7 +142,7 @@ These are some of the analysis of Chips sales performance.
 
 ![Average Price per Unit by Segment](https://github.com/user-attachments/assets/a1ac947d-cd79-4b54-bfae-d51fd6f44820)
 
-Statistical Testing (t-tests): I performed independent t-tests to compare price preferences between customer groups:
+**Statistical Testing (t-tests):** I performed independent t-tests to compare price preferences between customer groups:
 
   - Mainstream vs Premium Customers: I found that mainstream customers paid a significantly lower price per unit compared to premium customers, indicating a potential price sensitivity difference.
 
