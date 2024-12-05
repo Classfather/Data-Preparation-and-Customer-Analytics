@@ -98,7 +98,7 @@ transactionData[, .N, by = BRAND][order(BRAND)]
 
 ![Number of Unique Customers by Lifestyle](https://github.com/user-attachments/assets/81e3ad66-a1f4-436f-923c-2611177221c6)
 
-Missing Data Check: I checked for missing values in customer data and found none, ensuring that the analysis could be conducted without concerns about incomplete data.
+**Missing Data Check:** I checked for missing values in customer data and found none, ensuring that the analysis could be conducted without concerns about incomplete data.
 ```r
 #Check for missing values in each column
 missing_values <- sapply(customerData, function(x) sum(is.na(x)))
@@ -168,4 +168,14 @@ The analysis results are summarize as follows:
 4. Mainstream young singles and couples are 23% more likely to purchase Tyrrells chips compared to the rest of the population. Tyrells can be used for targeted marketing and promotions.
 
 ### Recommendation
-Based on the analysis, I recommend that the Category Manager should increase the category’s performance by off-locating some Tyrrells and smaller packs of chips in discretionary space near segments where young singles and couples frequent more often to increase visibilty and impulse behaviour.
+Based on the analysis, I will recommend the following:
+
+**Targeting Larger Pack Sizes:** Focus on promoting larger pack sizes to the Mainstream young singles/couples segment. This could involve offering discounts, bundle deals, or exclusive offers on larger packs.
+
+**Brand-Specific Promotions:** Given the strong preference for Tyrrell’s, consider running brand-specific promotions or loyalty programs to further drive sales in this category.
+
+**Segment-Specific Pricing Strategy:** Given the price sensitivity differences between mainstream and premium customers, it might be beneficial to adjust pricing strategies (e.g., offering value packs or discounts for mainstream customers).
+
+**Seasonal Campaigns:** Leverage the December data to design seasonal campaigns. The holiday period shows a spike in transactions, making it an ideal time to target high-potential customer segments with special promotions.
+
+
