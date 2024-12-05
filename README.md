@@ -17,7 +17,7 @@ The Category Manager for Chips wants to better understand the types of customers
 - Develop metrics and examine sales drivers to gain insights into overall sales performance. 
 - Create visualizations and prepare findings to formulate a clear recommendation for the client's strategy.
   
-The insights from the analysis will feed into the supermarket’s strategic plan for the chip category in the next half year.
+The insights from the analysis will feed into the supermarket’s strategic plan for the chip category in the next year.
 
 ### Data Sources
 ---
